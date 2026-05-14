@@ -102,7 +102,10 @@ body::after {
   letter-spacing: 0.04em;
 }
 
-.nav-brand span { color: #feac32; }
+.nav-brand span {
+  color: #2a2a3d;
+  text-shadow: 0 0 10px rgba(255,255,255,0.6), 0 0 20px rgba(255,255,255,0.3);
+}
 
 .nav-links {
   display: flex;
@@ -194,7 +197,10 @@ body::after {
   margin-bottom: 8px;
 }
 
-.hero h1 span { color: #feac32; }
+.hero h1 span {
+  color: #2a2a3d;
+  text-shadow: 0 0 12px rgba(255,255,255,0.7), 0 0 24px rgba(255,255,255,0.3), 0 0 48px rgba(255,255,255,0.15);
+}
 
 .hero-typewriter {
   display: inline-flex;
