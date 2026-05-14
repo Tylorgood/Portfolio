@@ -199,7 +199,12 @@ body::after {
 
 .hero h1 span {
   color: #2a2a3d;
-  text-shadow: 0 0 12px rgba(255,255,255,0.7), 0 0 24px rgba(255,255,255,0.3), 0 0 48px rgba(255,255,255,0.15);
+  text-shadow:
+    0 0 10px rgba(255,255,255,0.6),
+    0 0 20px rgba(255,255,255,0.3),
+    0 0 40px rgba(255,255,255,0.15),
+    0 0 12px rgba(110, 212, 255, 0.5),
+    0 0 24px rgba(132, 228, 197, 0.3);
 }
 
 .hero-typewriter {
