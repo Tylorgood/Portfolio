@@ -6,30 +6,49 @@
   <title>Tylor Good — Portfolio</title>
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  <link href="https://fonts.googleapis.com/css2?family=Lato:wght@300;400;700&display=swap" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;500;600;700&family=IBM+Plex+Mono:wght@400;500;600&display=swap" rel="stylesheet">
   <link rel="stylesheet" href="css/style.css">
 </head>
 <body>
-  <nav class="nav">
-    <a href="index.html" class="nav-brand">Tylor<span>Good</span></a>
-    <ul class="nav-links">
-      <li><a href="index.html">Portfolio</a></li>
-    </ul>
-  </nav>
+  <div class="page-shell">
 
-  <section class="hero">
-    <h1>Tylor <span>Good</span></h1>
-    <p>Precision Machining &amp; Manufacturing Portfolio</p>
-  </section>
+    <nav class="nav">
+      <a href="index.html" class="nav-brand">Tylor<span>Good</span></a>
+      <ul class="nav-links">
+        <li><a href="index.html">Portfolio</a></li>
+      </ul>
+    </nav>
 
-  <div class="container">
-    <h2 class="section-title">Projects</h2>
-    <div class="card-grid" id="card-grid"></div>
+    <section class="hero">
+      <div class="hero-ambient" aria-hidden="true">
+        <span class="hero-ambient-frame hero-ambient-frame-a"></span>
+        <span class="hero-ambient-frame hero-ambient-frame-b"></span>
+        <span class="hero-ambient-frame hero-ambient-frame-c"></span>
+        <span class="hero-ambient-line hero-ambient-line-a"></span>
+        <span class="hero-ambient-line hero-ambient-line-b"></span>
+      </div>
+
+      <h1>Tylor <span>Good</span></h1>
+      <div class="hero-typewriter" aria-live="polite">
+        <span class="hero-typewriter-text">Precision Machining &amp; Manufacturing</span>
+        <span class="hero-typewriter-cursor" aria-hidden="true"></span>
+      </div>
+      <p class="hero-sub">CNC machining, tooling, and fabrication portfolio</p>
+    </section>
+
+    <div class="container">
+      <div class="section-header">
+        <span class="mini-label">Projects</span>
+        <span class="section-header-line"></span>
+      </div>
+      <div class="card-grid" id="card-grid"></div>
+    </div>
+
+    <footer class="footer">
+      Tylor Good &mdash; Precision Manufacturing Portfolio
+    </footer>
+
   </div>
-
-  <footer class="footer">
-    Tylor Good &mdash; Precision Manufacturing Portfolio
-  </footer>
 
   <script src="js/main.js"></script>
 </body>

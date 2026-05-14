@@ -6,46 +6,51 @@
   <title>Gallery | Tylor Good Portfolio</title>
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  <link href="https://fonts.googleapis.com/css2?family=Lato:wght@300;400;700&display=swap" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;500;600;700&family=IBM+Plex+Mono:wght@400;500;600&display=swap" rel="stylesheet">
   <link rel="stylesheet" href="css/style.css">
 </head>
 <body>
-  <nav class="nav">
-    <a href="index.html" class="nav-brand">Tylor<span>Good</span></a>
-    <ul class="nav-links">
-      <li><a href="index.html">Portfolio</a></li>
-    </ul>
-  </nav>
+  <div class="page-shell">
 
-  <div class="gallery-header">
-    <div class="gallery-header-inner">
+    <nav class="nav">
+      <a href="index.html" class="nav-brand">Tylor<span>Good</span></a>
+      <ul class="nav-links">
+        <li><a href="index.html">Portfolio</a></li>
+      </ul>
+    </nav>
+
+    <div class="gallery-header">
       <a href="index.html" class="back-btn">&larr; Back</a>
       <span class="gallery-title" id="gallery-title"></span>
       <span class="gallery-count" id="gallery-count"></span>
     </div>
-  </div>
 
-  <div class="container" id="gallery">
-    <div class="loading">Loading gallery...</div>
-    <div class="gallery-grid" id="gallery-grid"></div>
+    <div class="container" id="gallery">
+      <div class="loading">Loading gallery...</div>
+      <div class="gallery-grid" id="gallery-grid"></div>
 
-    <div class="pdf-section" id="pdf-section" style="display:none">
-      <h2 id="pdf-title">Technical Drawings</h2>
-      <div class="pdf-grid" id="pdf-grid"></div>
+      <div class="pdf-section" id="pdf-section" style="display:none">
+        <div class="pdf-section-header">
+          <span class="mini-label" id="pdf-title">Technical Drawings</span>
+          <span class="section-header-line"></span>
+        </div>
+        <div class="pdf-grid" id="pdf-grid"></div>
+      </div>
     </div>
-  </div>
 
-  <div class="lightbox" id="lightbox" onclick="closeLightbox()">
-    <span class="lightbox-close" onclick="closeLightbox()">&times;</span>
-    <button class="lightbox-nav lightbox-prev" onclick="prevImage(event)">&#8249;</button>
-    <img class="lightbox-img" id="lightbox-img" src="" alt="">
-    <button class="lightbox-nav lightbox-next" onclick="nextImage(event)">&#8250;</button>
-    <div class="lightbox-counter" id="lightbox-counter"></div>
-  </div>
+    <div class="lightbox" id="lightbox" onclick="closeLightbox()">
+      <span class="lightbox-close" onclick="closeLightbox()">&times;</span>
+      <button class="lightbox-nav lightbox-prev" onclick="prevImage(event)">&#8249;</button>
+      <img class="lightbox-img" id="lightbox-img" src="" alt="">
+      <button class="lightbox-nav lightbox-next" onclick="nextImage(event)">&#8250;</button>
+      <div class="lightbox-counter" id="lightbox-counter"></div>
+    </div>
 
-  <footer class="footer">
-    Tylor Good &mdash; Precision Manufacturing Portfolio
-  </footer>
+    <footer class="footer">
+      Tylor Good &mdash; Precision Manufacturing Portfolio
+    </footer>
+
+  </div>
 
   <script src="js/main.js"></script>
 </body>
