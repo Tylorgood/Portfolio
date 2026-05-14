@@ -1,0 +1,52 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Gallery | Tylor Good Portfolio</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+  <nav class="nav">
+    <a href="index.html" class="nav-brand">Tylor<span>Good</span></a>
+    <ul class="nav-links">
+      <li><a href="index.html">Portfolio</a></li>
+    </ul>
+  </nav>
+
+  <div class="gallery-header">
+    <div class="gallery-header-inner">
+      <a href="index.html" class="back-btn">&larr; Back</a>
+      <span class="gallery-title" id="gallery-title"></span>
+      <span class="gallery-count" id="gallery-count"></span>
+    </div>
+  </div>
+
+  <div class="container" id="gallery">
+    <div class="loading">Loading gallery...</div>
+    <div class="gallery-grid" id="gallery-grid"></div>
+
+    <div class="pdf-section" id="pdf-section" style="display:none">
+      <h2 id="pdf-title">Technical Drawings</h2>
+      <div class="pdf-grid" id="pdf-grid"></div>
+    </div>
+  </div>
+
+  <div class="lightbox" id="lightbox" onclick="closeLightbox()">
+    <span class="lightbox-close" onclick="closeLightbox()">&times;</span>
+    <button class="lightbox-nav lightbox-prev" onclick="prevImage(event)">&#8249;</button>
+    <img class="lightbox-img" id="lightbox-img" src="" alt="">
+    <button class="lightbox-nav lightbox-next" onclick="nextImage(event)">&#8250;</button>
+    <div class="lightbox-counter" id="lightbox-counter"></div>
+  </div>
+
+  <footer class="footer">
+    &copy; Tylor Good &mdash; Precision Manufacturing Portfolio
+  </footer>
+
+  <script src="js/main.js"></script>
+</body>
+</html>

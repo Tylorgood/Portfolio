@@ -1,0 +1,254 @@
+﻿{
+    "categories":  [
+                       {
+                           "name":  "AutoCAD",
+                           "slug":  "autocad",
+                           "count":  6,
+                           "cover":  "images/AutoCAD/Screenshot (45).jpg",
+                           "images":  [
+                                          "Screenshot (45).jpg",
+                                          "Screenshot (45)_LI.jpg",
+                                          "Screenshot (46).jpg",
+                                          "Screenshot (46)_LI.jpg",
+                                          "Screenshot (59).jpg",
+                                          "Screenshot (59)_LI.jpg"
+                                      ],
+                           "pdfs":  [
+
+                                    ]
+                       },
+                       {
+                           "name":  "Broach Machine Weldments",
+                           "slug":  "broach-machine-weldments",
+                           "count":  15,
+                           "cover":  "images/Broach Machine Weldments/Screenshot (28).jpg",
+                           "images":  [
+                                          "Screenshot (28).jpg",
+                                          "Screenshot (29).jpg",
+                                          "Screenshot (30).jpg",
+                                          "Screenshot (31).jpg",
+                                          "Screenshot (32).jpg",
+                                          "Screenshot (33).jpg",
+                                          "Screenshot (34).jpg",
+                                          "Screenshot (35).jpg",
+                                          "Screenshot (35)_LI.jpg",
+                                          "Screenshot (36)_LI.jpg",
+                                          "Screenshot (37)_LI.jpg",
+                                          "Screenshot (50).jpg",
+                                          "Screenshot (51).jpg",
+                                          "Screenshot (52).jpg",
+                                          "Screenshot (53).jpg"
+                                      ],
+                           "pdfs":  [
+
+                                    ]
+                       },
+                       {
+                           "name":  "Dehydronator",
+                           "slug":  "dehydronator",
+                           "count":  23,
+                           "cover":  "images/Dehydronator/Screenshot (14).jpg",
+                           "images":  [
+                                          "Screenshot (14).jpg",
+                                          "Screenshot (15).jpg",
+                                          "Screenshot (16).jpg",
+                                          "Screenshot (2).jpg",
+                                          "Screenshot (23).jpg",
+                                          "Screenshot (24).jpg",
+                                          "Screenshot (25).jpg",
+                                          "Screenshot (26).jpg",
+                                          "Screenshot (27).jpg",
+                                          "Screenshot (40).jpg",
+                                          "Screenshot (41).jpg",
+                                          "Screenshot (42).jpg",
+                                          "Screenshot (43).jpg",
+                                          "Screenshot (54).jpg",
+                                          "Screenshot (55).jpg",
+                                          "Screenshot (56).jpg",
+                                          "Screenshot (57).jpg",
+                                          "Screenshot (61).jpg",
+                                          "Screenshot (62).jpg",
+                                          "Screenshot (63).jpg",
+                                          "Screenshot (64).jpg",
+                                          "Screenshot (69).jpg",
+                                          "Screenshot (70).jpg"
+                                      ],
+                           "pdfs":  [
+
+                                    ]
+                       },
+                       {
+                           "name":  "Electric bike",
+                           "slug":  "electric-bike",
+                           "count":  40,
+                           "cover":  "images/Electric bike/20210210_125536.jpg",
+                           "images":  [
+                                          "20210210_125536.jpg",
+                                          "20210210_125546.jpg",
+                                          "20210210_125550.jpg",
+                                          "20210211_162108.jpg",
+                                          "20210211_162122.jpg",
+                                          "20210413_055651.jpg",
+                                          "20210413_123834.jpg",
+                                          "20210413_125339.jpg",
+                                          "20210413_125404.jpg",
+                                          "20210413_125430.jpg",
+                                          "20210413_125446.jpg",
+                                          "20210413_125501.jpg",
+                                          "20210413_125530.jpg",
+                                          "20210415_185202.jpg",
+                                          "20210601_172102.jpg",
+                                          "20210601_172106.jpg",
+                                          "20210601_172109.jpg",
+                                          "20210601_172111.jpg",
+                                          "20210601_172114.jpg",
+                                          "20210601_172117.jpg",
+                                          "20210601_172123.jpg",
+                                          "20210621_212248.jpg",
+                                          "20210621_212316.jpg",
+                                          "20210621_212319.jpg",
+                                          "20210621_212324.jpg",
+                                          "20210621_212327.jpg",
+                                          "20210703_135812.jpg",
+                                          "20210703_135828.jpg",
+                                          "20210703_135850.jpg",
+                                          "20210703_135858.jpg",
+                                          "20210707_193437.jpg",
+                                          "20210707_193444.jpg",
+                                          "20210707_193457.jpg",
+                                          "20210707_193520.jpg",
+                                          "20210707_193530.jpg",
+                                          "20210707_193532.jpg",
+                                          "20210707_193540.jpg",
+                                          "20210707_193555.jpg",
+                                          "240606194_404884361052938_8137455250892292950_n.jpg",
+                                          "643569804.jpg"
+                                      ],
+                           "pdfs":  [
+
+                                    ]
+                       },
+                       {
+                           "name":  "Gummy",
+                           "slug":  "gummy",
+                           "count":  7,
+                           "cover":  "images/Gummy/Em\u0027s - Group mockup03 (1).jpg",
+                           "images":  [
+                                          "Em\u0027s - Group mockup03 (1).jpg",
+                                          "PXL_20211001_205836618 (1).jpg",
+                                          "Screenshot (3).jpg",
+                                          "Screenshot (6).jpg",
+                                          "Screenshot (7).jpg",
+                                          "Screenshot (8).jpg",
+                                          "Screenshot (9).jpg"
+                                      ],
+                           "pdfs":  [
+
+                                    ]
+                       },
+                       {
+                           "name":  "Ice Cube Mold",
+                           "slug":  "ice-cube-mold",
+                           "count":  5,
+                           "cover":  "images/Ice Cube Mold/Screenshot (38).jpg",
+                           "images":  [
+                                          "Screenshot (38).jpg",
+                                          "Screenshot (39).jpg",
+                                          "Screenshot (47).jpg",
+                                          "Screenshot (48).jpg",
+                                          "Screenshot (49).jpg"
+                                      ],
+                           "pdfs":  [
+
+                                    ]
+                       },
+                       {
+                           "name":  "Misc",
+                           "slug":  "misc",
+                           "count":  2,
+                           "cover":  "images/Misc/Mold Insert.jpg",
+                           "images":  [
+                                          "Mold Insert.jpg",
+                                          "Yoke.jpg"
+                                      ],
+                           "pdfs":  [
+
+                                    ]
+                       },
+                       {
+                           "name":  "Pill Machine",
+                           "slug":  "pill-machine",
+                           "count":  6,
+                           "cover":  "images/Pill Machine/20200403_101503.jpg",
+                           "images":  [
+                                          "20200403_101503.jpg",
+                                          "20200414_122459.jpg",
+                                          "20200414_122519.jpg",
+                                          "20200414_122534.jpg",
+                                          "20200417_112812.jpg",
+                                          "Screenshot (4).jpg"
+                                      ],
+                           "pdfs":  [
+                                        "pdfs/Pill Machine/200Guide Plate Drawing v5.pdf",
+                                        "pdfs/Pill Machine/Bent-Guard DieDrawing v3.pdf",
+                                        "pdfs/Pill Machine/Bent-Guard Drawing200 v4.pdf",
+                                        "pdfs/Pill Machine/Bent-Guard Drawingpunch v1.pdf",
+                                        "pdfs/Pill Machine/Bottom Filler Drawing200 v1.pdf",
+                                        "pdfs/Pill Machine/Bottom Plate Drawing v4.pdf",
+                                        "pdfs/Pill Machine/Cam Pin Drawing200 v2.pdf",
+                                        "pdfs/Pill Machine/Close Pin Drawing200 v2.pdf",
+                                        "pdfs/Pill Machine/Comb Block Drawing200 v4.pdf",
+                                        "pdfs/Pill Machine/Cover Drawing200 v3.pdf",
+                                        "pdfs/Pill Machine/Dish Comb Drawing v2.pdf",
+                                        "pdfs/Pill Machine/Ejector Pin Drawing200 v1.pdf",
+                                        "pdfs/Pill Machine/Groove Pin Drawing200 v2.pdf",
+                                        "pdfs/Pill Machine/Guide Pin Drawing200 v1.pdf",
+                                        "pdfs/Pill Machine/Knurled Pin Drawing200 v2.pdf",
+                                        "pdfs/Pill Machine/Set Pin Drawing200 v1.pdf",
+                                        "pdfs/Pill Machine/Side Block Drawing v1.pdf",
+                                        "pdfs/Pill Machine/Slotted Plate Drawing200 v9.pdf",
+                                        "pdfs/Pill Machine/Slotted Stanchion Drawing200 v2.pdf",
+                                        "pdfs/Pill Machine/Tapped Block200 Drawing v1.pdf",
+                                        "pdfs/Pill Machine/Top Filler Drawing200 v2.pdf",
+                                        "pdfs/Pill Machine/Top Plate Drawing200 v3.pdf"
+                                    ]
+                       },
+                       {
+                           "name":  "Stator",
+                           "slug":  "stator",
+                           "count":  4,
+                           "cover":  "images/Stator/20210715_122007.jpg",
+                           "images":  [
+                                          "20210715_122007.jpg",
+                                          "20210717_153455.jpg",
+                                          "20210717_153456.jpg",
+                                          "20210717_153505.jpg"
+                                      ],
+                           "pdfs":  [
+
+                                    ]
+                       },
+                       {
+                           "name":  "Titan Med Tool",
+                           "slug":  "titan-med-tool",
+                           "count":  11,
+                           "cover":  "images/Titan Med Tool/20200803_191730.jpg",
+                           "images":  [
+                                          "20200803_191730.jpg",
+                                          "20200803_191744.jpg",
+                                          "20200803_191845.jpg",
+                                          "20200812_173529.jpg",
+                                          "20200812_173914.jpg",
+                                          "20200812_173928.jpg",
+                                          "20200812_173943.jpg",
+                                          "20200812_174645.jpg",
+                                          "20200812_174942.jpg",
+                                          "20200812_174947.jpg",
+                                          "Screenshot (5).jpg"
+                                      ],
+                           "pdfs":  [
+
+                                    ]
+                       }
+                   ]
+}
